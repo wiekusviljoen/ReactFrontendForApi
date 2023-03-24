@@ -1,0 +1,2 @@
+C:\Users\Wiekus\source\repos\Api\aspcrud-frontend\obj\Debug\aspcrud-frontend.esproj.SuggestedBindingRedirects.cache
+C:\Users\Wiekus\source\repos\Api\aspcrud-frontend\obj\Debug\aspcrud-frontend.esproj.CoreCompileInputs.cache
